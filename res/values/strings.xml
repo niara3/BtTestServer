@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BtTestServer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="service_state_start">稼働中</string>
+    <string name="service_state_stop">停止中</string>
+    <string name="service_state">サービス状態</string>
+    <string name="bluetooth_state_start">有効</string>
+    <string name="bluetooth_state_stop">無効</string>
+    <string name="bluetooth_state">Bluetooth状態</string>
+
+</resources>
