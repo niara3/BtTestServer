@@ -24,6 +24,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <service android:name="com.niara3.bttestserver.MainService" >
+        </service>
     </application>
 
 </manifest>
